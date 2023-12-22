@@ -8,7 +8,7 @@ const WhyUs = () => {
           Our Beneficially
         </p>
         <p className="mb-12 text-xl font-normal text-center text-gray-500 dark:text-gray-200">
-          See who gets the best output using Tasky
+          See who gets the best output using Zenish Tech
         </p>
         <div className="flex flex-col items-center justify-center md:flex-row">
           <div className="p-4">

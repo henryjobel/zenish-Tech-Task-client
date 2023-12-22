@@ -8,7 +8,7 @@ const Home = () => {
   return (
     <div className="w-full carousel">
       <div id="slide1" className="relative w-full carousel-item">
-        <div className="min-h-screen hero" style={{ backgroundImage: 'url(https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg)' }}>
+        <div className="min-h-screen bg-blue-400 hero" >
           <div className="hero-overlay bg-opacity-60" data-aos="zoom-in"></div>
           <div className=" hero-content text-neutral-content">
             <div className="">
@@ -36,7 +36,7 @@ const Home = () => {
         </div>
       </div>
       <div id="slide2" className="relative w-full carousel-item">
-        <div className="min-h-screen hero" style={{ backgroundImage: 'url(https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg)' }}>
+        <div className="min-h-screen bg-green-300 hero">
           <div className="hero-overlay bg-opacity-60" data-aos="zoom-in"></div>
           <div className=" hero-content text-neutral-content">
             <div className="">
@@ -64,7 +64,7 @@ const Home = () => {
         </div>
       </div>
       <div id="slide3" className="relative w-full carousel-item">
-        <div className="min-h-screen hero" style={{ backgroundImage: 'url(https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg)' }}>
+        <div className="min-h-screen hero bg-yellow">
           <div className="hero-overlay bg-opacity-60" data-aos="zoom-in"></div>
           <div className=" hero-content text-neutral-content">
             <div className="">
@@ -92,7 +92,7 @@ const Home = () => {
         </div>
       </div>
       <div id="slide4" className="relative w-full carousel-item">
-        <div className="min-h-screen hero" style={{ backgroundImage: 'url(https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg)' }}>
+        <div className="min-h-screen hero bg-zinc-700" >
           <div className="hero-overlay bg-opacity-60" data-aos="zoom-in"></div>
           <div className=" hero-content text-neutral-content">
             <div className="">

@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="flex flex-col items-center text-center">
               <Link to={"/"} className="flex items-center">
                 <h1 className="text-4xl font-bold uppercase black">
-                  Task<span className="text-[#FEA946]">y.</span>
+                  Zenish<span className="text-blue-600">Tech</span>
                 </h1>
                 {/* <img src={logo} className="h-12 mr-3" alt="" /> */}
               </Link>
@@ -20,8 +20,8 @@ const Footer = () => {
                 <Link to={'/'} className="mx-4 text-black transition-colors duration-300 hover:text-[#524FF5]">
                   Home
                 </Link>
-                <Link to={'/whyTasky'} className="mx-4 text-black transition-colors duration-300 hover:text-[#524FF5]">
-                  Why Tasky
+                <Link to={'/whyus'} className="mx-4 text-black transition-colors duration-300 hover:text-[#524FF5]">
+                  Why Zenish
                 </Link>
 
                 <Link to={'/faq'} className="mx-4 text-black transition-colors duration-300 hover:text-[#524FF5]">
